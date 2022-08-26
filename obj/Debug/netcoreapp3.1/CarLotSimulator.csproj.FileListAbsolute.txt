@@ -1,0 +1,5 @@
+/Users/derekgriffin/Desktop/repos/CarLotSimulator/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/obj/Debug/netcoreapp3.1/CarLotSimulator.csproj.AssemblyReference.cache
+/Users/derekgriffin/Desktop/repos/CarLotSimulator/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/obj/Debug/netcoreapp3.1/CarLotSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/derekgriffin/Desktop/repos/CarLotSimulator/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/obj/Debug/netcoreapp3.1/CarLotSimulator.AssemblyInfoInputs.cache
+/Users/derekgriffin/Desktop/repos/CarLotSimulator/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/obj/Debug/netcoreapp3.1/CarLotSimulator.AssemblyInfo.cs
+/Users/derekgriffin/Desktop/repos/CarLotSimulator/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/obj/Debug/netcoreapp3.1/CarLotSimulator.csproj.CoreCompileInputs.cache

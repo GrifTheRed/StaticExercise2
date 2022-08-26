@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OKu7HAgbmBDLp3jjcRZmldc5DvPat3flOuIkJ/cayZcwG2U0PT1PoVoy3TwpaMiufzX6L4XcEIwtoeRjAf/kyg==",
+  "success": true,
+  "projectFilePath": "/Users/derekgriffin/Desktop/repos/CarLotSimulator/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/CarLotSimulator.csproj",
+  "expectedPackageFiles": [
+    "/Users/derekgriffin/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/derekgriffin/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/derekgriffin/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
